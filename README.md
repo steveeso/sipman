@@ -1,4 +1,4 @@
-This is a fork of hypeman for me to fuck around with and probably never touch again.
+This is a fork of hypeman for me to fuck around with and probably never touch again. Figger it out.
 
 Also, should I decide to try and roll rkusa's datis into hypeman, notes from Matty regarding the ATIS information package and how he would like it formatted:
 
