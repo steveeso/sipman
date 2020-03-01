@@ -1,5 +1,12 @@
 This is a fork of hypeman for me to fuck around with and probably never touch again.
 
+Also, should I decide to try and roll rkusa's datis into hypeman, notes from Matty regarding the ATIS information package and how he would like it formatted:
+
+MattyToday at 10:17 PM
+if you end up able to use Google Cloud Text-to-Speech for ATIS using (voice type Wavenet, voice name en-AU-wavenet-C at a pitch of 5.20)...the text speech should be in this format (I have it made phonetically so the speech will make it sound right): "Nellis Tower eight tiss information Juliet, 1600 Zulu. Ceiling one thousand six hundred broken, visibility seven. Temperature two five, dew point two zero, wind zero four zero at one two, altimeter two niner niner five, runway three right and three left in use. Expect pee a r runway two one left approach. Advise on initial contact you have information Juliet."
+something for your skillset to make into reality!
+
+
 # HypeMan
 HypeMan brings the hype
 
