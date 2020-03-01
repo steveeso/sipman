@@ -1,3 +1,5 @@
+This is a fork of hypeman for me to fuck around with and probably never touch again.
+
 # HypeMan
 HypeMan brings the hype
 
